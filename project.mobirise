@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Past Conferences.html",
+    "currentPage": "Resources.html",
     "versionFirst": "3.6.1",
-    "uniqCompNum": 118,
+    "uniqCompNum": 123,
     "versionPublish": "4.8.6",
     "name": "ENT Wales",
     "theme": {
@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "_styles": {
@@ -409,7 +409,7 @@
           "form": {
             "action": "mcleodrwj@googlemail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "We will be in contact"
             },
             "fields": {
               "name": {
@@ -425,7 +425,7 @@
               "phone": {
                 "title": "Phone",
                 "visible": false,
-                "customTitle": "Phone"
+                "customTitle": "Title"
               },
               "message": {
                 "title": "Message",
@@ -433,7 +433,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact</a>"
         },
         {
           "_tags": [
@@ -460,7 +460,7 @@
     "About.html": {
       "settings": {
         "title": "About",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -565,7 +565,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "_tags": [
@@ -753,7 +753,7 @@
     "Past Conferences.html": {
       "settings": {
         "title": "Past Conferences",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1353,7 +1353,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/portmeirion-view-of-central-plaza-2000x1328-325.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/portmeirion-view-of-central-plaza-2000x1328-3213.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1571,14 +1571,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         }
       ]
     },
     "Privacy Policy.html": {
       "settings": {
         "title": "Privacy Policy and Cookies",
-        "order": 3,
+        "order": 4,
         "meta_descr": ""
       },
       "components": [
@@ -1664,7 +1664,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "_tags": [
@@ -1724,7 +1724,7 @@
     "Awards.html": {
       "settings": {
         "title": "Awards",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1849,7 +1849,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "alias": "purity/components",
@@ -2642,7 +2642,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "_styles": {
@@ -2944,7 +2944,7 @@
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-10-23-17-2000x1503-52-2000x1503-0.png",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2016-10-23-17-2000x1503-52.png",
                 "caption": "Type caption here",
@@ -2954,7 +2954,7 @@
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-10-23-17-2000x1498-67-2000x1498-29.png",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2016-10-23-17-2000x1498-67.png",
                 "caption": "Type caption here",
@@ -2964,7 +2964,7 @@
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-10-23-17-2000x1499-95-2000x1499-51.png",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2016-10-23-17-2000x1499-95.png",
                 "caption": "Type caption here",
@@ -2974,7 +2974,7 @@
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-10-23-17-2000x1494-30-2000x1494-35.png",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2016-10-23-17-2000x1494-30.png",
                 "caption": "Type caption here",
@@ -3234,7 +3234,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "_tags": [
@@ -3344,7 +3344,7 @@
     "Medical Students.html": {
       "settings": {
         "title": "Medical Students",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3452,7 +3452,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "_params": {
@@ -3681,7 +3681,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "_tags": [
@@ -3707,7 +3707,7 @@
     },
     "page11.html": {
       "settings": {
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3795,7 +3795,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "_tags": [
@@ -3868,7 +3868,7 @@
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
                 "caption": "Type caption here"
@@ -3877,7 +3877,7 @@
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
                 "caption": "Type caption here"
@@ -3886,7 +3886,7 @@
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
                 "caption": "Type caption here"
@@ -3895,7 +3895,7 @@
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
                 "caption": "Type caption here"
@@ -3904,7 +3904,7 @@
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/table.jpg",
                 "caption": "Type caption here"
@@ -3913,7 +3913,7 @@
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
                 "caption": "Type caption here"
@@ -3922,7 +3922,7 @@
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
                 "caption": "Type caption here"
@@ -4023,7 +4023,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>"
         },
         {
           "_tags": [
@@ -4090,35 +4090,37 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bike.jpg",
                 "caption": "Ear",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Mastoidectomy",
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=BhTfwBhYnRY",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2016-12-02-22-31-47.jpg",
+                "videoPreview": "@PROJECT_PATH@/2016-12-02_22-31-47.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
                 "caption": "Mastoid",
                 "active": false
               },
               {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "tags": "Parotidectomy",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=38RFHkZLptU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "caption": "Type caption here"
+                "caption": "Parotidectomy<br>",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Ear",
@@ -4138,25 +4140,37 @@
                 "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/table.jpg",
                 "caption": "Mastoid Anatomy",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
                 "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Mastoidectomy",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=jnonLwxW2Cg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-12-02-22-51-50.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "caption": "Mastoid Anatomy",
+                "active": true
               }
             ]
           },
@@ -4169,7 +4183,7 @@
     "juniordoctors.html": {
       "settings": {
         "title": "Junior Doctors",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4296,7 +4310,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\">Abstract Submission</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>",
           "_anchor": "ext_menu-2y"
         },
         {
@@ -4378,11 +4392,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/doctors-academy-logo-360x203.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ent1-1-600x400.jpg",
               "link": "https://doctorsacademy.org.uk/CourseNW/DOHNS/",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -4530,6 +4543,179 @@
           },
           "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>",
           "_anchor": "footer1-32"
+        }
+      ]
+    },
+    "page12.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Submission",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/entwaleslogo-med-284x128-14.png",
+              "height": 128,
+              "alt": "ENT Wales",
+              "link": "index.html",
+              "title": "ENT Wales",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resources.html\" aria-expanded=\"false\">Video Resources</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page12.html\">Abstract Submission</a></li>",
+          "_anchor": "ext_menu-3a"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>",
+          "_anchor": "footer1-3b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Abstract submission",
+          "subtitle": "Please fill in the form to submit an abstract for the ENT Wales conference. Abstracts must include a title, authors and the body of the text can not exceed the character limit of 1700. Only ONE abstract will be accepted per trainee.<br><br>For trainees outside of Wales wishing to submit an abstract and attend the day meeting, there will be a fee of £60.<br><br>You must include an email address.<br><br>After submission your abstract will be reviewed by Senior Consultants and you will receive a decision via email.<br><br>Once you have submitted your abstract you cannot make changes so please ensure that you have checked the abstract thoroughly before submitting it.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit</a>",
+          "form": {
+            "action": "mcleodrwj@googlemail.com",
+            "alerts": {
+              "success": "Thanks for submitting your abstract"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Title"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Abstract"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-3d",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     }
